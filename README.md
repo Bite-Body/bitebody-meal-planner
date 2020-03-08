@@ -25,7 +25,7 @@ https://2o8jsg6z03.execute-api.us-west-1.amazonaws.com/default/mealplanner
 
 ## Environment Variables
 
-API_USER_KEY
-API_USER_ID
-API_USER_KEY_BACKUP
-API_USER_ID_BACKUP
+* API_USER_KEY
+* API_USER_ID
+* API_USER_KEY_BACKUP
+* API_USER_ID_BACKUP
