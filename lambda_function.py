@@ -679,7 +679,7 @@ def lambda_handler(event, context):
             }
         }
     except Exception as e:
-        logged['logged'] = 'Failed'
+        logged['meal-planner'] = 'failed'
         return {
             'statusCode': 400,
             'body': json.dumps(logged),
